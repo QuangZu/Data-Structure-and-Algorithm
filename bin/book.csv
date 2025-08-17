@@ -1,0 +1,101 @@
+id,title,author,price
+1,Clean Code,Robert C. Martin,40.0
+2,The Pragmatic Programmer,Andrew Hunt,42.0
+3,Design Patterns,Erich Gamma,55.0
+4,Refactoring,Martin Fowler,50.0
+5,Effective Java,Joshua Bloch,47.5
+6,Java Concurrency in Practice,Brian Goetz,52.0
+7,Head First Design Patterns,Eric Freeman,39.0
+8,Domain-Driven Design,Eric Evans,58.0
+9,Patterns of Enterprise Application Architecture,Martin Fowler,56.0
+10,Continuous Delivery,Jez Humble,54.0
+11,Working Effectively with Legacy Code,Michael Feathers,45.0
+12,Test-Driven Development, Kent Beck,35.0
+13,Extreme Programming Explained,Kent Beck,36.0
+14,Agile Software Development,Alistair Cockburn,44.0
+15,Building Microservices,Sam Newman,48.0
+16,Monolith to Microservices,Sam Newman,42.0
+17,Kubernetes Up and Running,Kelsey Hightower,50.0
+18,Docker Deep Dive,Nigel Poulton,38.0
+19,Cloud Native Java,Josh Long,46.0
+20,Spring in Action,Craig Walls,49.0
+21,Java: The Complete Reference,Herbert Schildt,53.0
+22,Beginning Java Programming,Bart Baesens,37.0
+23,Core Java Volume I,Cay S. Horstmann,55.0
+24,Core Java Volume II,Cay S. Horstmann,56.0
+25,Modern Java in Action,Raoul-Gabriel Urma,52.0
+26,Functional Programming in Java,Venkat Subramaniam,43.0
+27,Java Performance,Scott Oaks,57.0
+28,Java Puzzlers,Joshua Bloch,41.0
+29,Programming Pearls,Jon Bentley,38.0
+30,The Mythical Man-Month,Fred Brooks,34.0
+31,Peopleware,Tom DeMarco,32.0
+32,Soft Skills,John Sonmez,36.0
+33,Cracking the Coding Interview,Gayle Laakmann McDowell,45.0
+34,Elements of Programming Interviews,Adnan Aziz,46.0
+35,Introduction to Algorithms,Thomas H. Cormen,75.0
+36,Algorithm Design,Jon Kleinberg,72.0
+37,Algorithms,Robert Sedgewick,70.0
+38,Data Structures and Algorithms in Java,Michael T. Goodrich,60.0
+39,Grokking Algorithms,Aditya Bhargava,35.0
+40,Python Crash Course,Eric Matthes,33.0
+41,Automate the Boring Stuff with Python,Al Sweigart,31.0
+42,Fluent Python,Luciano Ramalho,62.0
+43,Effective Python,Brett Slatkin,47.0
+44,Think Python,Allen B. Downey,28.0
+45,Deep Learning,Ian Goodfellow,65.0
+46,Hands-On Machine Learning,Aurélien Géron,63.0
+47,Machine Learning Yearning,Andrew Ng,20.0
+48,Artificial Intelligence: A Modern Approach,Stuart Russell,70.0
+49,Speech and Language Processing,Daniel Jurafsky,72.0
+50,Pattern Recognition and Machine Learning,Christopher Bishop,74.0
+51,Computer Networking: A Top-Down Approach,James F. Kurose,55.0
+52,Operating System Concepts,Abraham Silberschatz,60.0
+53,Modern Operating Systems,Andrew S. Tanenbaum,62.0
+54,Computer Organization and Design,David A. Patterson,57.0
+55,Digital Design,M. Morris Mano,45.0
+56,Computer Architecture,John L. Hennessy,65.0
+57,The Art of Computer Programming,Donald Knuth,80.0
+58,Compilers: Principles, Techniques, and Tools,Alfred Aho,68.0
+59,Structure and Interpretation of Computer Programs,Harold Abelson,50.0
+60,Programming Rust,Jim Blandy,55.0
+61,The Rust Programming Language,Steve Klabnik,52.0
+62,Learning Go,Jon Bodner,44.0
+63,Go in Action,William Kennedy,46.0
+64,Go Programming Blueprints,Mat Ryer,42.0
+65,Pro C# 7 and .NET Core,Andrew Troelsen,58.0
+66,C# in Depth,Jon Skeet,60.0
+67,ASP.NET Core in Action,Andrew Lock,55.0
+68,Pro ASP.NET Core MVC,Adam Freeman,57.0
+69,Learning PHP,David Sklar,35.0
+70,PHP and MySQL Web Development,Luke Welling,45.0
+71,Laravel: Up and Running,Matt Stauffer,47.0
+72,JavaScript: The Good Parts,Douglas Crockford,33.0
+73,Eloquent JavaScript,Marijn Haverbeke,30.0
+74,You Don’t Know JS,Kyle Simpson,40.0
+75,Effective TypeScript,Dan Vanderkam,44.0
+76,Programming TypeScript,Boris Cherny,42.0
+77,HTML and CSS,Jon Duckett,28.0
+78,JavaScript and JQuery,Jon Duckett,30.0
+79,Learning Web Design,Jennifer Robbins,32.0
+80,Don’t Make Me Think,Steve Krug,36.0
+81,The Design of Everyday Things,Don Norman,38.0
+82,Hooked: How to Build Habit-Forming Products,Nir Eyal,34.0
+83,Sprint,Jake Knapp,33.0
+84,Lean Startup,Eric Ries,35.0
+85,Zero to One,Peter Thiel,37.0
+86,The Hard Thing About Hard Things,Ben Horowitz,39.0
+87,Crossing the Chasm,Geoffrey Moore,36.0
+88,Measure What Matters,John Doerr,38.0
+89,The Innovator’s Dilemma,Clayton Christensen,40.0
+90,The Innovator’s Solution,Clayton Christensen,42.0
+91,Radical Candor,Kim Scott,34.0
+92,Dare to Lead,Brené Brown,36.0
+93,Leaders Eat Last,Simon Sinek,38.0
+94,Start With Why,Simon Sinek,37.0
+95,Drive,Daniel H. Pink,35.0
+96,Thinking, Fast and Slow,Daniel Kahneman,39.0
+97,Outliers,Malcolm Gladwell,36.0
+98,Blink,Malcolm Gladwell,34.0
+99,The Tipping Point,Malcolm Gladwell,35.0
+100,Grit,Angela Duckworth,37.0
